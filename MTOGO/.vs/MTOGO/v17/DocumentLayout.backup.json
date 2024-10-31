@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\moham\\source\\repos\\MTOGO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{45FEA7C0-7B8F-4CD3-A099-D8CF4C160C2A}|Infrastructure\\Infrastructure.csproj|c:\\users\\moham\\source\\repos\\mtogo\\infrastructure\\persistence\\mtogodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45FEA7C0-7B8F-4CD3-A099-D8CF4C160C2A}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\persistence\\mtogodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77E1AF6F-BC83-4618-BC26-19051E96AD1F}|Domain\\Domain.csproj|c:\\users\\moham\\source\\repos\\mtogo\\domain\\shared\\valueobjects\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77E1AF6F-BC83-4618-BC26-19051E96AD1F}|Domain\\Domain.csproj|solutionrelative:domain\\shared\\valueobjects\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77E1AF6F-BC83-4618-BC26-19051E96AD1F}|Domain\\Domain.csproj|c:\\users\\moham\\source\\repos\\mtogo\\domain\\shared\\valueobjects\\money.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77E1AF6F-BC83-4618-BC26-19051E96AD1F}|Domain\\Domain.csproj|solutionrelative:domain\\shared\\valueobjects\\money.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77E1AF6F-BC83-4618-BC26-19051E96AD1F}|Domain\\Domain.csproj|c:\\users\\moham\\source\\repos\\mtogo\\domain\\shared\\valueobjects\\approvalcondition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77E1AF6F-BC83-4618-BC26-19051E96AD1F}|Domain\\Domain.csproj|solutionrelative:domain\\shared\\valueobjects\\approvalcondition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77E1AF6F-BC83-4618-BC26-19051E96AD1F}|Domain\\Domain.csproj|c:\\users\\moham\\source\\repos\\mtogo\\domain\\supporting\\bonuscalculation\\bonus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77E1AF6F-BC83-4618-BC26-19051E96AD1F}|Domain\\Domain.csproj|solutionrelative:domain\\supporting\\bonuscalculation\\bonus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77E1AF6F-BC83-4618-BC26-19051E96AD1F}|Domain\\Domain.csproj|c:\\users\\moham\\source\\repos\\mtogo\\domain\\shared\\valueobjects\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77E1AF6F-BC83-4618-BC26-19051E96AD1F}|Domain\\Domain.csproj|solutionrelative:domain\\shared\\valueobjects\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77E1AF6F-BC83-4618-BC26-19051E96AD1F}|Domain\\Domain.csproj|c:\\users\\moham\\source\\repos\\mtogo\\domain\\core\\ordermanagement\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77E1AF6F-BC83-4618-BC26-19051E96AD1F}|Domain\\Domain.csproj|solutionrelative:domain\\core\\ordermanagement\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77E1AF6F-BC83-4618-BC26-19051E96AD1F}|Domain\\Domain.csproj|c:\\users\\moham\\source\\repos\\mtogo\\domain\\supporting\\customermanagement\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77E1AF6F-BC83-4618-BC26-19051E96AD1F}|Domain\\Domain.csproj|solutionrelative:domain\\supporting\\customermanagement\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77E1AF6F-BC83-4618-BC26-19051E96AD1F}|Domain\\Domain.csproj|c:\\users\\moham\\source\\repos\\mtogo\\domain\\core\\deliverymanagement\\deliveryassignment..cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77E1AF6F-BC83-4618-BC26-19051E96AD1F}|Domain\\Domain.csproj|solutionrelative:domain\\core\\deliverymanagement\\deliveryassignment..cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApprovalCondition.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\source\\repos\\MTOGO\\Domain\\Shared\\ValueObjects\\ApprovalCondition.cs",
+              "RelativeDocumentMoniker": "Domain\\Shared\\ValueObjects\\ApprovalCondition.cs",
+              "ToolTip": "C:\\Users\\moham\\source\\repos\\MTOGO\\Domain\\Shared\\ValueObjects\\ApprovalCondition.cs",
+              "RelativeToolTip": "Domain\\Shared\\ValueObjects\\ApprovalCondition.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T12:07:02.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\source\\repos\\MTOGO\\Domain\\Shared\\ValueObjects\\OrderItem.cs",
+              "RelativeDocumentMoniker": "Domain\\Shared\\ValueObjects\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\moham\\source\\repos\\MTOGO\\Domain\\Shared\\ValueObjects\\OrderItem.cs",
+              "RelativeToolTip": "Domain\\Shared\\ValueObjects\\OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T11:39:41.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DeliveryAssignment..cs",
+              "DocumentMoniker": "C:\\Users\\moham\\source\\repos\\MTOGO\\Domain\\Core\\DeliveryManagement\\DeliveryAssignment..cs",
+              "RelativeDocumentMoniker": "Domain\\Core\\DeliveryManagement\\DeliveryAssignment..cs",
+              "ToolTip": "C:\\Users\\moham\\source\\repos\\MTOGO\\Domain\\Core\\DeliveryManagement\\DeliveryAssignment..cs",
+              "RelativeToolTip": "Domain\\Core\\DeliveryManagement\\DeliveryAssignment..cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T11:29:22.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Address.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\source\\repos\\MTOGO\\Domain\\Shared\\ValueObjects\\Address.cs",
+              "RelativeDocumentMoniker": "Domain\\Shared\\ValueObjects\\Address.cs",
+              "ToolTip": "C:\\Users\\moham\\source\\repos\\MTOGO\\Domain\\Shared\\ValueObjects\\Address.cs",
+              "RelativeToolTip": "Domain\\Shared\\ValueObjects\\Address.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T11:28:31.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Money.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\source\\repos\\MTOGO\\Domain\\Shared\\ValueObjects\\Money.cs",
+              "RelativeDocumentMoniker": "Domain\\Shared\\ValueObjects\\Money.cs",
+              "ToolTip": "C:\\Users\\moham\\source\\repos\\MTOGO\\Domain\\Shared\\ValueObjects\\Money.cs",
+              "RelativeToolTip": "Domain\\Shared\\ValueObjects\\Money.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T11:28:01.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\source\\repos\\MTOGO\\Domain\\Core\\OrderManagement\\Order.cs",
+              "RelativeDocumentMoniker": "Domain\\Core\\OrderManagement\\Order.cs",
+              "ToolTip": "C:\\Users\\moham\\source\\repos\\MTOGO\\Domain\\Core\\OrderManagement\\Order.cs",
+              "RelativeToolTip": "Domain\\Core\\OrderManagement\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T11:24:45.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\source\\repos\\MTOGO\\Domain\\Supporting\\CustomerManagement\\Customer.cs",
+              "RelativeDocumentMoniker": "Domain\\Supporting\\CustomerManagement\\Customer.cs",
+              "ToolTip": "C:\\Users\\moham\\source\\repos\\MTOGO\\Domain\\Supporting\\CustomerManagement\\Customer.cs",
+              "RelativeToolTip": "Domain\\Supporting\\CustomerManagement\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T11:24:12.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Bonus.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\source\\repos\\MTOGO\\Domain\\Supporting\\BonusCalculation\\Bonus.cs",
+              "RelativeDocumentMoniker": "Domain\\Supporting\\BonusCalculation\\Bonus.cs",
+              "ToolTip": "C:\\Users\\moham\\source\\repos\\MTOGO\\Domain\\Supporting\\BonusCalculation\\Bonus.cs",
+              "RelativeToolTip": "Domain\\Supporting\\BonusCalculation\\Bonus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T11:22:09.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MtoGoDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\source\\repos\\MTOGO\\Infrastructure\\Persistence\\MtoGoDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\MtoGoDbContext.cs",
+              "ToolTip": "C:\\Users\\moham\\source\\repos\\MTOGO\\Infrastructure\\Persistence\\MtoGoDbContext.cs",
+              "RelativeToolTip": "Infrastructure\\Persistence\\MtoGoDbContext.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAmwE0AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T09:57:02.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
